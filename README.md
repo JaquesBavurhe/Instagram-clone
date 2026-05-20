@@ -4,13 +4,14 @@ This is an Instagram clone built using HTML, CSS, JavaScript, and Bootstrap. The
 
 # Live Preview
 
-To view the Instagram clone, simply open 
-https://jaquesbavurhe.github.io/Instagram-clone/
-```
+To view the Instagram clone, open:
+
+`https://jaquesbavurhe.github.io/Instagram-clone/`
+
 # Screenshots
 
-![Project preview](./images/preview.jpg)
-![Project preview 1](./images/preview1.jpg)
+![Project preview](images/preview.jpg)
+![Project preview 1](images/preview1.jpg)
 
 
 # Technologies Used
